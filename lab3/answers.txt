@@ -1,0 +1,12 @@
+sort1 uses: Bubble
+
+How do you know?: Sort 1 completed the sorted list the quickest, especially over a the 5k list. However sort 2 was slightly bigger with the larger list.
+
+sort2 uses: Merge
+
+How do you know?: Completed the random list significantly faster, particularly over larger lists
+
+sort3 uses: Selection
+
+
+How do you know?: Took the longest to complete the sorted list.
