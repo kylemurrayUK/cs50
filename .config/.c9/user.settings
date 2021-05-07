@@ -21,7 +21,7 @@
     },
     "imgeditor": {
         "@smooth": false,
-        "@zoom": 80
+        "@zoom": 70
     },
     "language": {
         "@continuousCompletion": false,

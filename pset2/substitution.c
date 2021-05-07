@@ -36,10 +36,10 @@ int main(int argc, string argv[])
         //have to initialise ciphertext as equaling plaintext to make sure ciphertext is the same length
         string plaintext = get_string("plaintext: ");
         string ciphertext = plaintext;
-        
+
         for (int i = 0, n = strlen(plaintext); i < n; i++)
         {
-            //checks if the character is alphabetical. If so then the text jsut stays the same
+            //checks if the character is alphabetical. If so then the text just stays the same
             if ((plaintext[i] < 65) || (plaintext[i] > 122) || (plaintext[i] > 90 && plaintext[i] < 97))
             {
                 ciphertext[i] = ciphertext[i];
@@ -77,12 +77,12 @@ int check_repetition(string text)
 {
     int checker = 0;
     for (int i = 0, n = strlen(text); i < n; i++)
-    {   
+    {
         //first thing we do is creating a char that will contain the letter we are checking in thsi current search
         char temp = text[i];
-        //searching through the string again 
+        //searching through the string again
         for (int j = 0, o = strlen(text); j < o; j++)
-        {   
+        {
             //inevitably the character will always match itself at least once so to account for that when the current count matches the count of the letter we are on I will minus one
             if (j == i)
             {

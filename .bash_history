@@ -1,360 +1,3 @@
-make tideman.c
-make tideman
-./tideman
-./tideman Kyle Ellie Dec
-./tideman
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-cd pset/tideman
-cd pset3/tideman
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-debug50 ./tideman Kyle Ellie
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-./tideman Kyle Ellie Dec John
-./tideman Kyle Ellie Dec John Fred
-./tideman Kyle Ellie Dec
-./tideman Kyle Ellie Dec John Fred
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-cd pset3/tideman
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-make tideman
-check50 cs50/problems/2021/x/tideman
-make tideman
-check50 cs50/problems/2021/x/tideman
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-check50 cs50/problems/2021/x/tideman
-make tideman
-debug50 ./tideman Kyle Ellie Dec
-make tideman
-./tideman Kyle Ellie Dec
-check50 cs50/problems/2021/x/tideman
-./tideman Kyle Ellie Dec
-check50 cs50/problems/2021/x/tideman
-cd pset3/tideman
-make fact.c
-make fact
-./fact
-make fact
-./fact
-make fact
-./fact
-make fact
-cd ~
-make recursion_practice
-./recursion_practice
-cd pset3/tideman
-make tideman
-check50 cs50/problems/2021/x/tideman
-style50 tideman.c
-submit50 cs50/problems/2021/x/tideman
-git commit
-git add
-git add .
-git commit
-git push
-make recursion_practice
-./recursion_practice
-debug50 ./recursion_practice
-make recursion_practice
-./recursion_practice
-debug50 ./recursion_practice
-make recursion_practice
-./recursion_practice
-make recursion_practice
-./recursion_practice
-make recursion_practice
-./recursion_practice
-make recursion_practice
-4
-make recursion_practice
-./recursion_practice
-./recursion_practice5
-./recursion_practice
-debug50 ./recursion_practice
-make recursion_practice5
-make recursion_practice
-./recursion_practice
-mkdir recursion_pratice
-mv recursion_practice.c ~/recursion_practice
-cd recursion_practice
-mv recursion_pratice recursion_practice
-cd recursion_practice
-mk display_numbers.c
-touch display_numbers.c
-ls
-make display_numbers
-./ display_numbers
-./display_numbers
-make display_numbers
-./display_numbers
-debug50 ./display_numbers
-make display_numbers
-./display_numbers
-debug50 ./display_numbers
-./display_numbers
-debug50 ./display_numbers
-make display_numbers
-./display_numbers
-make display_numbers
-./display_numbers
-make display_numbers
-./display_numbers
-touch sum_of_1_to_n
-make sum_of_1_to_n
-./sum_of_1_to_n
-cd pset3/tideman
-make tideman
-./tideman Kyle Jacob Ellie
-cd ..
-cd pset2
-make substitution
-./substitution qwertyuiopasdfghjklzxcvbnm
-cd ..
-cd pset1
-./mario
-mkdir
-mkdir pset4
-cd pset4
-touch pointerpractice.c
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-cd pset4/
-clang -o pointerpractice pointerpractice.c
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-cd pset4/
-clang -o pointerpractice pointerpractice.c
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-./pointerpractice 
-clang -o pointerpractice pointerpractice.c
-make pointerpractice 
-./pointpractive
-pointpractice
-./pointpractice
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-cd pset4
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-valgrind pointerpractice
-valgrind ./pointerpractice
-cd pset4
-valgrind ./pointerpractice
-/usr/src/libcs50
-cd /usr/src/libcs50
-cd /
-cd /usr/src/libcs50
-ls
-cd usr/src/libcs50
-cd usr
-ls
-cd src
-ls
-cd /usr/src/libcs50
-cd pset4
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-./pointerpractice 
-make size
-cd ~/lab2
-make size
-./size 
-cd ~/pset4
-make pointerpractice 
-./pointerpractice 
-make pointerpractice 
-cd ~/lab2
-make size
-./size 
-make size
-./size 
-make size
-./size 
-make size
-./size 
-make size
-./size 
-make size
-./size 
-make size
-./size 
-make size
-./size 
-cd pset4
-wget https://cdn.cs50.net/2020/fall/labs/4/lab4.zip
-lab4.zip
-unzip lab4.zip
-cd pset4/lab4/
-make volume
-check50 cs50/labs/2021/x/volume
-make volume
-check50 cs50/labs/2021/x/volume
-make volume
-check50 cs50/labs/2021/x/volume
-make volume
-check50 cs50/labs/2021/x/volume
-style50 volume.c
-submit50 cs50/labs/2021/x/volume
-cd pset4
-wget https://cdn.cs50.net/2020/fall/psets/4/filter/more/filter.zip
-unzip filter.zip 
-cd filter/
-cd ..
-rm filter.zip
-rm lab.zip
-rm lab4.zip
-cd filter/
-ls
-make filter
-./filter -g ./images/courtyard.bmp test.bmp
-make filter
-./filter -g ./images/courtyard.bmp test.bmp
-check50 cs50/problems/2021/x/filter/more
-./filter -g ./images/stadium.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -g ./images/courtyard.bmp test.bmp
-check50 cs50/problems/2021/x/filter/more
-debug50 ./filter -g ./images/courtyard.bmp test.bmp
-make filter
-debug50 ./filter -g ./images/courtyard.bmp test.bmp
-debug50 ./filter -g ./images/stadium.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-cd pset4/filter/
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -r ./images/courtyard.bmp test.bmp
-./filter -r ./images/stadium.bmp test.bmp
-./filter -r ./images/tower.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
 help make filter
 help50 make filter
 help make filter
@@ -567,4 +210,336 @@ git push
 cd ~
 git push
 git commit
+git add
+git add .
+git rm --cached .local/share/help50/cs50/helpers
+git add pset2/substitution
+git add pset3/tideman/tideman
+git add lab2/size
+git add lab2/size.c
+git add recursion_practice/
+git add pset4/
+git commit
+git push
+cd pset4/filter/
+make filter 
+./filter -b ./images/yard.bmp test.bmp 
+./filter -g ./images/yard.bmp test.bmp 
+./filter -r ./images/yard.bmp test.bmp 
+./filter -e ./images/yard.bmp test.bmp 
+cd pset4
+wget http://cdn.cs50.net/2020/fall/psets/4/recover/recover.zip
+unzip recover.zip
+rm recover.zip
+ls
+cd recover/
+ls
+open recover.c 
+make recover 
+./recover
+./recover hello
+./recover
+make recover 
+./recover
+./recover test
+./recover
+make recover 
+./recover
+make recover 
+./recover
+./recover test
+recover test hello
+./recover test test
+make recover 
+./recover test
+make recover 
+./recover card.raw
+make recover 
+help50 make recover 
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+./recover card.raw
+rm *.jpg
+rm -f *.jpg
+debig50 ./recover card.raw
+debug50 ./recover card.raw
+make recover 
+check50 cs50/problems/2021/x/recover
+debug50 ./recover card.raw
+make recover 
+debug50 ./recover card.raw
+./recover card.raw
+make recover 
+./recover card.raw
+rm -f *.jpg
+./recover card.raw
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+check50 cs50/problems/2021/x/recover
+rm -f *.jpg
+make recover 
+./recover card.raw
+debug50 ./recover card.raw
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+style50 recover.c
+make recover 
+./recover card.raw
+git add
+git add .
+git commit
+style50 recover.c
+make recover 
+style50 recover.c
+make recover 
+check50 cs50/problems/2021/x/recover
+make recover 
+style50 recover.c
+make recover 
+style50 recover.c
+check50 cs50/problems/2021/x/recover
+submit50 cs50/problems/2021/x/recover
+rm -f *.jpg
+cat git/HEAD
+cat .git/refs/heads/master
+git checkout e5d0bd
+git
+git master
+git checkout master
+git checkout HEAD^
+mkdir lab5
+cd lab5
+wget https://cdn.cs50.net/2020/fall/labs/5/inheritance.c
+ls
+open inheritance.c 
+cd lab5
+make inheritance 
+cd lab5
+make inheritance 
+help50 make inheritance
+make inheritance
+help50 make inheritance
+make inheritance
+./inheritance 
+check50 cs50/labs/2021/x/inheritance
+make inheritance
+./inheritance 
+check50 cs50/labs/2021/x/inheritance
+./inheritance 
+make inheritance
+check50 cs50/labs/2021/x/inheritance
+style50 inheritance.c
+submit50 cs50/labs/2021/x/inheritance
+cd l
+cd lab5
+make inheritance 
+./inheritance 
+mkdir pset5
+cd pset5
+wget http://cdn.cs50.net/2021/spring/psets/5/speller/speller.zip
+unzip speller.zip 
+rm -f speller.zip 
+ls
+cd speller/
+ls
+make speller
+cd pset5
+make speller
+make
+make speller
+help50 make speller
+cd speller/
+make speller
+help50 make speller
+make speller
+help50 make speller
+make speller
+help50 make speller
+make speller
+cd pset5/speller/
+make spaller
+make speller
+./speller texts/lalaland.txt
+debug50 ./speller texts/lalaland.txt
+make speller
+debug50 ./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+debug50 ./speller texts/lalaland.txt
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+debug50 ./speller texts/lalaland.txt
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+debug50 ./speller texts/lalaland.txt
+make speller
+debug50 ./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt
+cd pset5/speller/
+make speller 
+cd pset5/speller
+make speller
+check50 speller
+check50 cs50/problems/2021/x/speller
+cd pset5/speller
+make speller
+./speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller 
+make speller
+help50 make speller
+make speller
+./speller texts/lalaland.txt 
+debug50 speller texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+debug50 speller dictionaries/small texts/lalaland.txt 
+make speller
+debug50 speller dictionaries/small texts/lalaland.txt 
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+make speller
+debug50 speller texts/lalaland.txt 
+debug50 speller dictionaries/small texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+./speller dictionaries/small texts/cat.txt 
+make speller
+./speller dictionaries/small texts/cat.txt 
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+help50 make speller
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+make speller
+debug50 speller dictionaries/small texts/cat.txt 
+./speller dictionaries/small texts/cat.txt 
+debug50 speller dictionaries/small texts/cat.txt 
+make speller#
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+debug50 speller dictionaries/small texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt
+./speller texts/cat.txt
+make speller
+./speller texts/cat.txt
+./speller dictionaries/small texts/cat.txt
+debug50 speller dictionaries/small texts/cat.txt
+debug50 speller  texts/lalaland.txt
+make speller
+debug50 speller texts/lalaland.txt
+make speller
+cd pset5/speller/
+make speller
+./speller texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+~cs50/2019/fall/pset5/speller texts/lalaland.txt
+cd pset5/speller/
+~cs50/2019/fall/pset5/speller texts/lalaland.txt
+make speller
+./speller texts/lalaland.txt 
+make speller
+./speller texts/lalaland.txt 
+check50 speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+./speller texts/lalaland.txt 
+check50 cs50/problems/2021/x/speller
+valgrind ./speller texts/lalaland.txt
+help50 valgrind ./speller texts/cat.txt
+make speller
+check50 cs50/problems/2021/x/speller
+help50 valgrind ./speller texts/cat.txt
+make speller
+check50 cs50/problems/2021/x/speller
+help50 valgrind ./speller texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt 
+make speller
+./speller dictionaries/small texts/cat.txt 
+make speller
+./speller dictionaries/small texts/cat.txt 
+help50 valgrind ./speller texts/cat.txt
+make speller
+help50 valgrind ./speller texts/cat.txt
+make speller
+./speller dictionaries/small texts/cat.txt 
+help50 valgrind ./speller texts/cat.txt
+check50 cs50/problems/2021/x/speller
+style50 speller
+style50 dictionary.c
+make speller
+make cursor
+make speller
+check50 cs50/problems/2021/x/speller
+syle50 dictionary.c
+style50 dictionary.c
+submit50 cs50/problems/2021/x/speller
 git add
