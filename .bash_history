@@ -1,228 +1,3 @@
-help make filter
-help50 make filter
-help make filter
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -b ./images/tower.bmp test.bmp
-valgrind make filter
-make filter
-./filter -b ./images/tower.bmp test.bmp
-check50 cs50/problems/2021/x/filter/more
-cd pset4
-cd filter
-make filter
-./filter -b ./images/tower.bmp test.bmp
-make filter
-./filter -b ./images/tower.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -b ./images/tower.bmp test.bmp
-make filter
-./filter -b ./images/tower.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -b ./images/tower.bmp test.bmp
-cd pset4/filter/
-make filter
-./filter -b ./images/tower.bmp test.bmp
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-./filter -b /pset4/filter/images/w3c_home_256.bmp test.bmp
-./filter -b ./image/w3c_home_256.bmp test.bmp
-./filter -b ./image/courtyard.bmp test.bmp
-./filter -b ./images/w3c_home_256.bmp test.bmp
-./filter -b ./images/stadium.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-debug50 make filter
-debug50 filter
-cd pset4\filter
-cd pset4/filter
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-./filter -b ./images/stadium.bmp test.bmp
-./filter -b ./images/yard.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-debug50 ./filter -b ./images/yard.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-style50 helpers.c
-make filter
-check50 cs50/problems/2021/x/filter/more
-style50 helpers.c
-make filter
-style50 helpers.c
-make filter
-style50 helpers.c
-cd pset4/filter/
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-debug50 ./filter -e courtyard.bmp test.bmp
-./filter -e courtyard.bmp test.bmp
-./filter -e images/courtyard.bmp test.bmp
-debug50 ./filter -e images/courtyard.bmp test.bmp
-./filter -e images/courtyard.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-debug50 ./filter -e images/courtyard.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-debug50 ./filter -e images/courtyard.bmp test.bmp
-make filter
-check50 cs50/problems/2021/x/filter/more
-cd pset4/filter/
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-check50 cs50/problems/2021/x/filter/more
-style50 helpers.c
-make filter
-style50 helpers.c
-make filter
-style50 helpers.c
-make filter
-check50 cs50/problems/2021/x/filter/more
-make filter
-style50 helpers.c
-make filter
-style50 helpers.c
-make filter
-check50 cs50/problems/2021/x/filter/more
-submit50 cs50/problems/2021/x/filter/more
-git push
-cd ~
-git push
-git commit
-git add
-git add .
-git rm --cached .local/share/help50/cs50/helpers
-git add pset2/substitution
-git add pset3/tideman/tideman
-git add lab2/size
-git add lab2/size.c
-git add recursion_practice/
-git add pset4/
-git commit
-git push
-cd pset4/filter/
-make filter 
 ./filter -b ./images/yard.bmp test.bmp 
 ./filter -g ./images/yard.bmp test.bmp 
 ./filter -r ./images/yard.bmp test.bmp 
@@ -543,3 +318,214 @@ syle50 dictionary.c
 style50 dictionary.c
 submit50 cs50/problems/2021/x/speller
 git add
+git add -A
+git commit -m "completed pset5 along with the lab"
+git push
+cd ./pset5/speller/
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+help50 valgrind ./speller texts/cat.txt
+make speller
+check50 cs50/problems/2021/x/speller
+help50 valgrind ./speller texts/cat.txt
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+make speller
+check50 cs50/problems/2021/x/speller
+mkdir lab6
+cd lab6
+wget https://cdn.cs50.net/2020/fall/labs/6/lab6.zip
+unzip lab6
+ls
+rm lab6.zip 
+cd lab6/
+ls
+open tournament.py 
+python tournament.py hello#
+python tournament.py hello
+python tournament.py 2018m.csv
+python tournament.py 2018m.csv#
+python tournament.py 2018m.csv
+cd lab6
+python tournament.py 2018m.csv
+cd lab6
+python tournament.py 2018m.csv
+cd lab6
+python tournament.py 2018m.csv
+check50 cs50/labs/2021/x/worldcup
+python tournament.py 2018m.csv
+style50 tournament.py
+check50 cs50/labs/2021/x/worldcup
+style50 tournament.py
+submit50 cs50/labs/2021/x/worldcup
+mv tournament.py ../
+mv 2019w.csv, 2018m.csv  ../
+mv 2019w.csv  ../
+mv 2018m.csv  ../
+cd ..
+rm lab6
+rmdir lab6
+mkdir pset6
+cd pset6
+touch hello.py
+open hello.py 
+python hello.py
+check50 cs50/problems/2021/x/sentimental/hello
+style50 hello.py
+check50 cs50/problems/2021/x/sentimental/hello
+submit50 cs50/problems/2021/x/sentimental/hello
+touch mario.py
+open mario.py
+mv mario.py ./pset6
+cd pset1
+open mario.c
+close mario.py
+cd ..
+cd pset
+cd pset6
+open mario.py 
+python mario.py
+check50 cs50/problems/2021/x/sentimental/mario/more
+python mario.py
+check50 cs50/problems/2021/x/sentimental/mario/more
+python mario.py
+check50 cs50/problems/2021/x/sentimental/mario/more
+style50 mario.py
+check50 cs50/problems/2021/x/sentimental/mario/more
+style50 mario.py
+check50 cs50/problems/2021/x/sentimental/mario/more
+submit50 cs50/problems/2021/x/sentimental/mario/more
+touch credit.py
+open credit.py
+open ../pset1/credit.c 
+cd pset1
+make credit
+./credit
+cd ../pset6
+python credit.py
+debug50 python crdit.py
+debug50 python credit.py
+python credit.py
+debug50 python credit.py
+python credit.py
+touch test.py
+open test.py
+python test.py
+debug50 python test.py
+python test.py
+python credit.py
+whoami
+python credit.py
+debug50 python credit.py
+python credit.py
+371449635398431 
+python credit.py
+python credit.py4012888888881881
+python credit.py
+4111111111111111
+python credit.py
+python credit.py5105105105105100
+python credit.py
+debug50 python credit.py
+python credit.py
+check50 cs50/problems/2021/x/sentimental/credit
+python credit.py
+check50 cs50/problems/2021/x/sentimental/credit
+style50 credit.py
+check50 cs50/problems/2021/x/sentimental/credit
+style50 credit.py
+check50 cs50/problems/2021/x/sentimental/credit
+submit50 cs50/problems/2021/x/sentimental/credit
+cd pset6
+touch readability.py
+open readability.py 
+cd pset6
+python readability.py 
+Hello. My name is. Kyle
+python readability.py 
+debug50 python readability.py 
+python readability.py 
+debug50 python readability.py 
+python readability.py 
+debug50 python readability.py 
+python readability.py 
+check50 cs50/problems/2021/x/sentimental/readability
+style50 readability.py
+check50 cs50/problems/2021/x/sentimental/readability
+submit50 cs50/problems/2021/x/sentimental/readability
+style50 readability.py
+submit50 cs50/problems/2021/x/sentimental/readability
+rm test.py -f
+rm ../README.md
+submit50 cs50/problems/2021/x/sentimental/readability
+wget https://cdn.cs50.net/2020/fall/psets/6/dna/dna.zip
+unzip dna.zip
+rm dna.zip
+ls
+rm dna.zip -f
+cd dna/
+ls
+cd databases/
+ls
+open small.csv
+open large.csv 
+cd ..
+ls
+touch dna.py
+open dna.py
+python dna.py databases/large.csv sequences/5.txt
+cd pset6/dna
+python dna.py databases/large.csv sequences/5.txt
+cd pset6/dna/
+python dna.py databases/large.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/1.txt
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/4.txt
+python dna.py databases/small.csv sequences/11.txt
+python dna.py databases/small.csv sequences/1.txt
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+cd pset6/dna/
+debug50 python dna.py
+ls
+debug50 python dna.py
+python dna.py
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+debug50 python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/6.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/6.txt
+python dna.py databases/large.csv sequences/6.txt
+debug50 python dna.py databases/large.csv sequences/6.txt
+python dna.py databases/large.csv sequences/6.txt
+python dna.py databases/large.csv sequences/11.txt
+check50 cs50/problems/2021/x/dna
+python dna.py databases/large.csv sequences/11.txt
+check50 cs50/problems/2021/x/dna
+python dna.py databases/small.csv sequences/2.txt
+debug50 python dna.py databases/small.csv sequences/2.txt
+python dna.py databases/small.csv sequences/2.txt
+check50 cs50/problems/2021/x/dna
+style50 dna.py
+check50 cs50/problems/2021/x/dna
+submit50 cs50/problems/2021/x/dna
+cd ..
