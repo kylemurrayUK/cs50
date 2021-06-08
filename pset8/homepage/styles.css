@@ -1,0 +1,96 @@
+body, html {
+    background-image: url(https://i.pinimg.com/originals/f6/c2/d2/f6c2d2440cc9bb5a034836dd8b5a05f6.png);
+    height: 100%;
+    margin: 0;
+}
+
+#homepagebuttons{
+    list-style: none;
+    margin: 0;
+    padding:0;
+    height: 100%;
+}
+
+div{
+    height:100%;
+}
+.homepage{
+    background-color: #d8460b;
+    border: none;
+    float: left;
+    margin: 0;
+    padding:0;
+    width:33.33%;
+    height: 10%;
+    font-size: 40px;
+    font-family: SeventiesFont;
+}
+.homepage:hover{
+  background-color: #f5c600; /* Green */
+  color: white;
+}
+.homepage:active {
+  background-color: #f5c600;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+@font-face {
+  font-family: SeventiesFont;
+  src: url(KeeponTruckin.ttf);
+}
+#welcome{
+    font-family: SeventiesFont;
+    position: absolute;
+    top: 10%;
+    text-align: center;
+    margin-left: auto;
+
+}
+
+.welcometext{
+    font-size: 100px;
+    text-align: center;
+    margin-left: auto;
+}
+
+.textfont{
+    font-size: 25px;
+}
+
+#leftphoto{
+    position: absolute;
+    left: 5%;
+    top: 50%;
+}
+
+#rightphoto{
+    position: absolute;
+    right: 5%;
+    top: 50%;
+}
+
+#centrephoto{
+    position: absolute;
+    top:80%;
+    left: 38%;
+}
+
+p[id="greeting"]{
+    position: absolute;
+    top:57%;
+    left: 40%;
+    font-size: 50px;
+}
+
+.hometownimg{
+    width:33.33%;
+    height: 300px;
+    float: left;
+    position: relative;
+    top: 50%;
+}
+
+i {
+   color: black;
+}
