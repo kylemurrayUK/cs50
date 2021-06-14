@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+<main class="container p-5">
+
+<table class="table table-striped" style="text-align: left">
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>Name</th>
+                <th>Shares</th>
+                <th>Price</th>
+                <th>TOTAL</th>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td colspan="4"></td>
+                    <td><b>{{ (cash + sumtotal |int) | usd }}</b></td>
+                </tr>
+            </tfoot>
+        </thead>
+        <tbody>
+                {% for stocks in results %}
+                <tr>
+                    <td> {{ results[loop.index - 1][0] }} </td>
+                    <td> {{ results[loop.index - 1][1] }} </td>
+                    <td> {{ results[loop.index - 1][2] }} </td>
+                    <td> {{ results[loop.index - 1][3] | usd }} </td>
+                    <td> {{ results[loop.index - 1][4] | usd }} </td>
+                </tr>
+                {% endfor %}
+
+
+            <tr>
+                <td>CASH</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>{{ cash | usd }}</td>
+            </tr>
+        </tbody>
+    </table>
+</main>
+{% endblock %}
